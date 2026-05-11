@@ -1,5 +1,5 @@
 # 🏛️ ApiCrumbs Archive: SUFFOLK-AGRICULTURE-COMPANIES-IDENTITY-VERIFIER-DOSSIER
-![Last Sync](https://shields.io/badge/Synchronised-2026--05--06-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/298_UPDATED-emerald?style=for-the-badge)
+![Last Sync](https://shields.io/badge/Synchronised-2026--05--11-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/298_UPDATED-emerald?style=for-the-badge)
 
 📦 **Books in Shard:** 298 | 🛡️ **Tier:** PUBLIC_SNAPSHOT
 ⚡ **Latest Press Run:** 298 printed / 4806 skipped (up-to-date).
